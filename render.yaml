@@ -6,3 +6,6 @@ services:
     startCommand: python bot.py
     repo: https://github.com/sholoomail/TempMail-Bot.git
     branch: main
+    envVars:
+      - key: token 
+        sync: false
