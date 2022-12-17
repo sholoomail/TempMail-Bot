@@ -18,6 +18,10 @@ Put the bot token on `main.py` at `bot = telebot.TeleBot('**********************
 
 ## Deployment
 
+### Deploy To Render (Paid)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?)
+
 [![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/sholoomail/TempMail-Bot)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/riz4d/TempMail-Bot)
