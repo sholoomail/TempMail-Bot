@@ -1,7 +1,7 @@
 services:
   - type: worker
-    name: myanydl
-    env: mytemmMailBot
+    name: mytemmMailBot
+    env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
     repo: https://github.com/sholoomail/TempMail-Bot.git
